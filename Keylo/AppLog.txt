@@ -1,0 +1,30 @@
+[25.10.2020 19:45:51]
+Hook started... Timer started
+
+[25.10.2020 19:47:58]
+Mail was not sent! Error code: 259
+
+[25.10.2020 19:47:58]
+<From SendMail> Return code: 0
+
+[25.10.2020 19:50::1]
+Mail was not sent! Error code: 3
+
+[25.10.2020 19:52::5]
+Mail was not sent! Error code: 3
+
+[25.10.2020 19:54:10]
+Hook started... Timer started
+
+[25.10.2020 19:56:15]
+Mail was not sent! Error code: 3
+
+[25.10.2020 19:56:15]
+<From SendMail> Return code: 0
+
+[25.10.2020 19:58:17]
+Mail was not sent! Error code: 3
+
+[25.10.2020 20:00:19]
+Mail was not sent! Error code: 3
+

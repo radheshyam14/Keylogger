@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1475123190 source:d:\project\main.cpp
+	<iostream>
+	<windows.h>
+	"KeybHook.h"
+
+1475123190 d:\project\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1475123190 d:\project\keyconstants.h
+	<map>
+	<string>
+
+1603635329 d:\project\timer.h
+	<thread>
+	<chrono>
+	<functional>
+
+1603635791 d:\project\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1475123190 d:\project\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1475123190 d:\project\helper.h
+	<ctime>
+	<string>
+	<sstream>
+
+1475123190 d:\project\base64.h
+	<vector>
+	<string>
+
