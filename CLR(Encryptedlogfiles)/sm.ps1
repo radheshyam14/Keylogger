@@ -110,7 +110,7 @@ Function Send-EMail {
 
           {
 
-            exit 3; #error, something went wrong :(
+            exit 3; #error, there was something wrong :(
 
           }
 
