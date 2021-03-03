@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
     if (!fo)
         return std::cout << "Cannot write output file '" << out << "'" << std::endl, 5;
     fo << data;
-    std::cout << "Decoding was successful" << std::endl;
+    std::cout << "Decoding successful" << std::endl;
     return 0;
 }
 
